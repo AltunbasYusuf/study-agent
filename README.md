@@ -68,7 +68,3 @@ vector database.
 - agent_v1.py - single agent, two tools (LangGraph ReAct agent)
 - requirements.txt
 - README.md
-
-## Next steps (v2)
-
-A multi-agent version (planner + worker split) is planned as a follow-up.
